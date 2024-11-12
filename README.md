@@ -1,14 +1,14 @@
-# Customer-segmentation-for-subscription-service
+# CUSTOMER SUBSCRIPTION DASHBOARD
 
 ## 📊 Project Overview
-      The Customer Subscription Dashboard provides an in-depth analysis of customer behavior, subscription trends, 
-      cancellations, renewals, and revenue insights for a subscription-based service. 
-      The dashboard was built using Power BI and SQL to extract key insights and visualize the data effectively.
+      The Customer Subscription Dashboard provides an in-depth analysis of customer behavior, subscription trends,
+      cancellations, renewals, and revenue insights for a subscription-based service. The 
+      dashboard was built using Power BI and SQL to extract key insights and visualize the data effectively.
 
 ## ✨ Key Features:
-      Subscription Overview: Visualizes total subscriptions, cancellations, renewals, and revenue trends.
-      Customer Segmentation: Analyzes customer behavior based on subscription types and regions.
-      Revenue Analysis: Highlights revenue performance and trends over time.
+    Subscription Overview: Visualizes total subscriptions, cancellations, renewals, and revenue trends.
+    Customer Segmentation: Analyzes customer behavior based on subscription types and regions.
+    Revenue Analysis: Highlights revenue performance and trends over time.
 
 ## 🗄️ Dataset
     The dataset used for this project contains the following columns:
@@ -23,31 +23,13 @@
     renewed: Indicates whether the subscription was renewed (Yes/No)
     revenue: Total revenue generated from the subscription
 
-## 🛠️ Tools Used
-     Power BI: For data visualization and dashboard creation
-     SQL Server:  For querying and analysis of the dataset
+🛠️ Tools Used
 
-## 📈 SQL Queries
-      Here are some key SQL queries used in the project:
+    Power BI: For data visualization and dashboard creation
+    SQL Server: For data extraction, transformation, and loading (ETL)
 
-      Calculate Total Revenue:
-      `SELECT SUM(revenue) AS total_revenue
-       FROM subscriptions`
+📈 SQL Queries
 
+Here are some key SQL queries used in the project:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
+    Calculate Total Revenue:
