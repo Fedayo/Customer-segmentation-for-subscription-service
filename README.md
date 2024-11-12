@@ -1,4 +1,5 @@
 # Customer-segmentation-for-subscription-service
+
 ## 📊 Project Overview
       The Customer Subscription Dashboard provides an in-depth analysis of customer behavior, subscription trends, 
       cancellations, renewals, and revenue insights for a subscription-based service. 
