@@ -55,8 +55,8 @@
 ![active and canceled](https://github.com/user-attachments/assets/e6000bef-1071-4c30-8ea0-8a5d89eb0436)
 
 ## 🖼️ PowerBi Dashboard
- ![customer dashboard](https://github.com/user-attachments/assets/22cffd1e-1f7d-43b9-ac72-edd617542966)
-
+ ![customer dashboard](https://github.com/user-attachments/assets/6a12eb78-9880-41cc-a87f-5c62bd068d1a)
+ ![customer dashboard 2](https://github.com/user-attachments/assets/f430a999-8865-45a0-b615-5cd3aa225507)
 
 
 ## 📚 Insights
@@ -66,7 +66,17 @@
  -  Basic subscription has the highest percentage
 
 
+## Conclusion
+    ### The customer segmentation analysis for the subscription service provides valuable insights into customer behavior and revenue distribution. Key findings include:
+       - Subscriber Base: The total number of subscribers stands at 33,787, showcasing the reach of the service.
+       - Revenue Insights: The total revenue generated is approximately 68 million, highlighting the financial impact of the subscription model.
+  
+   ### Segment Trends:
+      - Subscription Type: Basic subscribers account for the highest number of subscriptions, indicating their popularity and accessibility.
+      - Regional Distribution: The East region leads in subscriptions, suggesting targeted growth strategies could be focused here to capitalize on this market.
+      - Top Customer: Liam emerges as the top customer, reflecting high engagement or spending, which could inform loyalty and rewards programs.
 
+    ### These findings can guide strategic decisions, such as enhancing basic subscription offerings, developing region-specific marketing campaigns, and nurturing relationships with top customers to drive          retention and growth.
 
 
 
