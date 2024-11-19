@@ -55,7 +55,8 @@
 ![active and canceled](https://github.com/user-attachments/assets/e6000bef-1071-4c30-8ea0-8a5d89eb0436)
 
 ## 🖼️ PowerBi Dashboard
-   ![customer dashboard](https://github.com/user-attachments/assets/6850e052-2a9b-44d3-b9a0-8397314805ae)
+ ![customer dashboard](https://github.com/user-attachments/assets/22cffd1e-1f7d-43b9-ac72-edd617542966)
+
 
 
 ## 📚 Insights
