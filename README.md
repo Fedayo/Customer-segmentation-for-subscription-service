@@ -43,7 +43,8 @@
 ![avg sub](https://github.com/user-attachments/assets/7adb0209-2997-425c-bbb0-968d3fe12cb9)
 
 ### customers with subscriptions longer than 12 months
-![longer than 12](https://github.com/user-attachments/assets/14fd12b2-ee97-4b3b-9ca6-46b2e79cc243)
+![CUS](https://github.com/user-attachments/assets/614a51b0-780c-4e04-97ed-0865b0ec7cff)
+
 
 ### total revenue by subscription type
 ![total revenue](https://github.com/user-attachments/assets/3ee92fc6-f680-43aa-bec3-89b20825e324)
@@ -62,22 +63,21 @@
 ## 📚 Insights
    Key Findings:
  -  Revenue Growth in the East Region: The East region shows consistent revenue growth, making it a key focus area for marketing efforts.
- -  High Cancellation Rates for Basic Subscriptions: Basic subscriptions have a higher cancellation rate, suggesting the need for improved service offerings or retention strategies.
- -  Basic subscription has the highest percentage
+ -  Basic subscribers have the highest percentage of subscription.
 
 
 ## Conclusion
    The customer segmentation analysis for the subscription service provides valuable insights into customer behavior and revenue distribution. 
    Key findings include:
-       - Subscriber Base: The total number of subscribers stands at 33,787, showcasing the reach of the service.
-       - Revenue Insights: The total revenue generated is approximately 68 million, highlighting the financial impact of the subscription model.
+- Subscriber Base: The total number of subscribers stands at 33,787, showcasing the reach of the service.
+- Revenue Insights: The total revenue generated is approximately 68 million, highlighting the financial impact of the subscription model.
   
- ### Segment Trends:
-      - Subscription Type: Basic subscribers account for the highest number of subscriptions, indicating their popularity and accessibility.
-      - Regional Distribution: The East region leads in subscriptions, suggesting targeted growth strategies could be focused here to capitalize on this market.
-      - Top Customer: Liam emerges as the top customer, reflecting high engagement or spending, which could inform loyalty and rewards programs.
+### Segment Trends:
+- Subscription Type: Basic subscribers account for the highest number of subscriptions, indicating their popularity and accessibility.
+- Regional Distribution: The East region leads in subscriptions, suggesting targeted growth strategies could be focused here to capitalize on this market.
+- Top Customer: Liam emerges as the top customer, reflecting high engagement or spending, which could inform loyalty and rewards programs.
 
- ### These findings can guide strategic decisions, such as enhancing basic subscription offerings, developing region-specific marketing campaigns, and nurturing relationships with top customers to drive          retention and growth.
+  These findings can guide strategic decisions, such as enhancing basic subscription offerings, developing region-specific marketing campaigns, and nurturing relationships with top customers to drive          retention and growth.
 
 
 
