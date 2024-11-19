@@ -67,16 +67,17 @@
 
 
 ## Conclusion
-    ### The customer segmentation analysis for the subscription service provides valuable insights into customer behavior and revenue distribution. Key findings include:
+   The customer segmentation analysis for the subscription service provides valuable insights into customer behavior and revenue distribution. 
+   Key findings include:
        - Subscriber Base: The total number of subscribers stands at 33,787, showcasing the reach of the service.
        - Revenue Insights: The total revenue generated is approximately 68 million, highlighting the financial impact of the subscription model.
   
-   ### Segment Trends:
+ ### Segment Trends:
       - Subscription Type: Basic subscribers account for the highest number of subscriptions, indicating their popularity and accessibility.
       - Regional Distribution: The East region leads in subscriptions, suggesting targeted growth strategies could be focused here to capitalize on this market.
       - Top Customer: Liam emerges as the top customer, reflecting high engagement or spending, which could inform loyalty and rewards programs.
 
-    ### These findings can guide strategic decisions, such as enhancing basic subscription offerings, developing region-specific marketing campaigns, and nurturing relationships with top customers to drive          retention and growth.
+ ### These findings can guide strategic decisions, such as enhancing basic subscription offerings, developing region-specific marketing campaigns, and nurturing relationships with top customers to drive          retention and growth.
 
 
 
